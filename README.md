@@ -31,6 +31,16 @@
 
 ## 快速开始
 
+### 安装
+
+```bash
+# 方式一：使用 npx
+npx skills add breadbot86/1Panel-Skills
+
+# 方式二：手动复制
+cp -r 1Panel-Skills ~/.openclaw/workspace/skills/
+```
+
 首次使用请查看 [SKILL.md](./SKILL.md)。
 
 ## 文档
